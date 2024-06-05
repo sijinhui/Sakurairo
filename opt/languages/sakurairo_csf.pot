@@ -3737,7 +3737,7 @@ msgstr ""
 
 #: options/theme-options.php:3839
 msgid ""
-"<img src=\"https://s.nmxc.ltd/sakurairo_vision/@2.6/series/headlogo.webp\"  "
+"<img src=\"https://cdn.jsdmirror.com/npm/sakurairo_vision@2.6/series/headlogo.webp\"  "
 "alt=\"Theme Information\" />"
 msgstr ""
 
