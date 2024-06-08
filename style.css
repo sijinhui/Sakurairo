@@ -5565,6 +5565,7 @@ a:focus {
 }
 
 .site-header:hover .site-title a,
+.site-header:hover .site-title a span,
 .site-header:hover .site-top ul li a{
   color: var(--theme-skin-matching, #F9D938) !important;
 }
