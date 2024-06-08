@@ -5560,8 +5560,11 @@ a:focus {
   z-index: 9999;
 }
 
-.site-header:hover {
+.site-header:hover,
+.site-header:hover .site-title a,
+.site-header:hover .site-top ul li a{
   background-color: rgba(255, 255, 255, .9);
+  color: var(--theme-skin-matching, #F9D938);
 }
 
 .sabit {
