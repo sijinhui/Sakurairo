@@ -91,6 +91,16 @@ $vision_resource_basepath = iro_opt('vision_resource_basepath');
 		</script>
 	<?php endif; ?>
 	<?php echo iro_opt("site_header_insert"); ?>
+	<style id="cf-frontend-style-inline-css" type="text/css">
+    @font-face {
+      font-family: 'TianTianQuan';
+      font-weight: 400;
+      font-display: auto;
+      src: url('https://qn.xiaosi.cc/fonts/ttq.woff2') format('woff2'),
+        url('https://qn.xiaosi.cc/fonts/ttq.woff2') format('woff'),
+        url('https://qn.xiaosi.cc/fonts/ttq.woff2') format('truetype');
+    }
+  </style>
 </head>
 
 <body <?php body_class(); ?>>
