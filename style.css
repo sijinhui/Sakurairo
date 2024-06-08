@@ -5564,12 +5564,6 @@ a:focus {
   background-color: rgba(255, 255, 255, .9);
 }
 
-.site-header .site-title a,
-.site-header .site-title a span,
-.site-header .site-top ul li a{
-  color: var(--theme-skin-matching, #F9D938) !important;
-}
-
 .sabit {
   top: 0;
   z-index: 9999;
