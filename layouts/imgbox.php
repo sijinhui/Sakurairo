@@ -62,7 +62,7 @@ $print_social_zone = function() use ($all_opt,$social_display_icon):void{
                 </div>
             <?php endif; ?>
             <div class="header-container">
-                <div class="header-info">
+                <div class="header-info" style="color: white;">
                     <!-- 首页一言打字效果 -->
                     <?php if (iro_opt('signature_typing', 'true')) : ?>
                     <?php if (iro_opt('signature_typing_marks', 'true')) : ?><i class="fa-solid fa-quote-left"></i><?php endif; ?>
