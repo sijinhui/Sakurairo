@@ -101,6 +101,15 @@ $vision_resource_basepath = iro_opt('vision_resource_basepath');
         url('https://qn.xiaosi.cc/fonts/ttq.woff2') format('truetype');
     }
   </style>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KD3BK7XBNT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-KD3BK7XBNT');
+  </script>
 </head>
 
 <body <?php body_class(); ?>>
